@@ -1,0 +1,108 @@
+{
+  "intents": [
+    {
+      "patterns": ["hello", "hi", "hey"],
+      "response": "Hello! I am PyTutor Assistant. How can I help you learn Python today?"
+    },
+    {
+      "patterns": ["what is python", "python language"],
+      "response": "Python is a high-level, interpreted, and easy-to-learn programming language."
+    },
+    {
+      "patterns": ["who created python", "python creator"],
+      "response": "Python was created by Guido van Rossum and released in 1991."
+    },
+    {
+      "patterns": ["what is variable", "variable", "python variable"],
+      "response": "A variable is a container used to store data values."
+    },
+    {
+      "patterns": ["what is data type", "data types", "python data types"],
+      "response": "Data types define the type of value a variable can hold, such as int, float, string, list, etc."
+    },
+    {
+      "patterns": ["what is string", "string", "python string"],
+      "response": "A string is a sequence of characters enclosed in single or double quotes."
+    },
+    {
+      "patterns": ["what is integer", "integer", "int"],
+      "response": "An integer is a whole number without decimal points."
+    },
+    {
+      "patterns": ["what is float", "float data type"],
+      "response": "A float is a numeric data type used for decimal numbers."
+    },
+    {
+      "patterns": ["what is loop", "loops", "explain loop", "python loop"],
+      "response": "A loop is used to execute a block of code repeatedly. Python supports for loops and while loops."
+    },
+    {
+      "patterns": ["what is for loop", "for loop", "explain for loop"],
+      "response": "A for loop is used to iterate over a sequence such as a list, tuple, string, or range."
+    },
+    {
+      "patterns": ["what is while loop", "while loop", "explain while loop"],
+      "response": "A while loop executes as long as a given condition is True."
+    },
+    {
+      "patterns": ["what is function", "function", "python function"],
+      "response": "A function is a reusable block of code that performs a specific task."
+    },
+    {
+      "patterns": ["what is list", "list", "python list"],
+      "response": "A list is an ordered and mutable collection used to store multiple items."
+    },
+    {
+      "patterns": ["what is tuple", "tuple", "python tuple"],
+      "response": "A tuple is an ordered and immutable collection of items."
+    },
+    {
+      "patterns": ["what is set", "set", "python set"],
+      "response": "A set is an unordered collection of unique elements."
+    },
+    {
+      "patterns": ["what is dictionary", "dictionary", "python dictionary"],
+      "response": "A dictionary stores data as key-value pairs."
+    },
+    {
+      "patterns": ["what is conditional statement", "if statement", "what is if"],
+      "response": "Conditional statements allow a program to make decisions using if, elif, and else."
+    },
+    {
+      "patterns": ["what is class", "class in python"],
+      "response": "A class is a blueprint for creating objects in Object-Oriented Programming."
+    },
+    {
+      "patterns": ["what is object", "object in python"],
+      "response": "An object is an instance of a class."
+    },
+    {
+      "patterns": ["what is inheritance", "inheritance"],
+      "response": "Inheritance allows one class to acquire the properties and methods of another class."
+    },
+    {
+      "patterns": ["what is exception handling", "try except", "exception"],
+      "response": "Exception handling is used to handle runtime errors using try and except blocks."
+    },
+    {
+      "patterns": ["what is file handling", "file handling"],
+      "response": "File handling allows reading from and writing to files using functions like open()."
+    },
+    {
+      "patterns": ["what is module", "module", "python module"],
+      "response": "A module is a Python file containing functions, classes, and variables that can be imported."
+    },
+    {
+      "patterns": ["what is package", "package", "python package"],
+      "response": "A package is a collection of Python modules organized in directories."
+    },
+    {
+      "patterns": ["thank you", "thanks"],
+      "response": "You're welcome! Happy coding."
+    },
+    {
+      "patterns": ["bye", "goodbye", "see you"],
+      "response": "Goodbye! Have a great day and keep learning Python."
+    }
+  ]
+}
