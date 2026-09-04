@@ -46,7 +46,7 @@ python_chatbot/
     ├── 03-register.png
     └── 04-chatbot.png
 ```
-    ## 📸 Screenshots
+
 
 ### 🏠 Home Page
 
