@@ -22,7 +22,7 @@ A web-based Python learning chatbot developed using Python and Flask. The chatbo
 - JSON
 
 ## 📂 Project Structure
-
+```text
 python_chatbot/
 │
 ├── app.py
@@ -45,7 +45,7 @@ python_chatbot/
     ├── 02-login.png
     ├── 03-register.png
     └── 04-chatbot.png
-
+```
     ## 📸 Screenshots
 
 ### 🏠 Home Page
